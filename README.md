@@ -1,8 +1,6 @@
 # Flip Bonsai — Flipper Zero
 
-<!-- CI badge: uncomment once the first push has a green Actions run
 [![CI](https://github.com/TFD-42/flip-bonsai/actions/workflows/ci.yml/badge.svg)](https://github.com/TFD-42/flip-bonsai/actions/workflows/ci.yml)
--->
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
 A port of [cbonsai](https://gitlab.com/jallbrit/cbonsai) to Flipper Zero.
