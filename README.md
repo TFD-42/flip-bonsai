@@ -5,6 +5,8 @@
 
 A port of [cbonsai](https://gitlab.com/jallbrit/cbonsai) to Flipper Zero.
 
+<img width="3752" height="1844" alt="1000730019" src="https://github.com/user-attachments/assets/01eb7aea-36cb-4f11-bb54-76c9a664ea15" />
+
 Same recursive growth algorithm as the original (trunk / left-shoot /
 right-shoot / dying / dead branch types, driven by `life` and `multiplier`),
 ported line-for-line from `setDeltas()` and `branch()`. The only real
