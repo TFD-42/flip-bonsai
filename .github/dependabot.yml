@@ -1,0 +1,13 @@
+version: 2
+updates:
+  # No app-level package manifest to track here — this is a bare C app built
+  # against the Flipper firmware SDK via ufbt, not a package-manager
+  # ecosystem GitHub Dependabot understands. Only the CI workflow's own
+  # actions are covered below.
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    labels:
+      - "dependencies"
+      - "ci"

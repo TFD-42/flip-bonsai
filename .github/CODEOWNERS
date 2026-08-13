@@ -1,0 +1,6 @@
+# CODEOWNERS
+# These owners are requested for review whenever a matching path changes.
+# See https://docs.github.com/articles/about-codeowners
+
+# Default owner(s) for everything in the repo, unless overridden below.
+*       @TFD-42

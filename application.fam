@@ -1,0 +1,11 @@
+App(
+    appid="cbonsai",
+    name="Flip Bonsai",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="cbonsai_app",
+    stack_size=4 * 1024,
+    fap_category="Misc",
+    fap_icon="cbonsai.png",
+    fap_version="1.0",
+    fap_description="Procedurally grown ASCII bonsai tree, ported from cbonsai",
+)
